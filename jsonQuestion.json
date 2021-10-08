@@ -2,52 +2,52 @@
   "Question1": [
     {
       "ID": "1",
-      "Question" : "ธาตุที่มีเลขอะตอม 1 คือธาตุอะไร",
+      "Question" : "Which element has an atomic number 1 ?",
       "Answer" : "H"
     },
     {
       "ID": "2",
-      "Question" : "ธาตุที่มีเลขอะตอม 2 คือธาตุอะไร",
+      "Question" : "Which element has an atomic number 2 ?",
       "Answer" : "He"
     },
     {
       "ID": "3",
-      "Question" : "ธาตุที่มีเลขอะตอม 3 คือธาตุอะไร",
+      "Question" : "Which element has an atomic number 3 ?",
       "Answer" : "Li"
     },
     {
       "ID": "4",
-      "Question" : "ธาตุที่มีเลขอะตอม 4 คือธาตุอะไร",
+      "Question" : "Which element has an atomic number 4 ?",
       "Answer" : "Be"
     },
     {
       "ID": "5",
-      "Question" : "ธาตุที่มีเลขอะตอม 5 คือธาตุอะไร",
+      "Question" : "Which element has an atomic number 5 ?",
       "Answer" : "B"
     },
     {
       "ID": "6",
-      "Question" : "ธาตุที่มีเลขอะตอม 6 คือธาตุอะไร",
+      "Question" : "Which element has an atomic number 6 ?",
       "Answer" : "C"
     },
     {
       "ID": "7",
-      "Question" : "ธาตุที่มีเลขอะตอม 7 คือธาตุอะไร",
+      "Question" : "Which element has an atomic number 7 ?",
       "Answer" : "N"
     },
     {
       "ID": "8",
-      "Question" : "ธาตุที่มีเลขอะตอม 8 คือธาตุอะไร",
+      "Question" : "Which element has an atomic number 8 ?",
       "Answer" : "O"
     },
     {
       "ID": "9",
-      "Question" : "ธาตุที่มีเลขอะตอม 9 คือธาตุอะไร",
+      "Question" : "Which element has an atomic number 9 ?",
       "Answer" : "F"
     },
     {
       "ID": "10",
-      "Question" : "ธาตุที่มีเลขอะตอม 10 คือธาตุอะไร",
+      "Question" : "Which element has an atomic number 10 ?",
       "Answer" : "Ne"
     }
   ]
